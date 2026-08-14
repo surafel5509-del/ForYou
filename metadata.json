@@ -1,0 +1,8 @@
+{
+  "name": "Remix Foryou",
+  "description": "Production Android Social Media App with feeds, stories, reels, real-time messaging, and rich discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
